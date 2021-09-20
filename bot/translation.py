@@ -41,7 +41,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/sunaif_adkar">© sunaif adkar</a></b>
+<b><a href="https://t.me/im_godgroot">© ashaan ashaan</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>CIMEMAZIP BOT</b>

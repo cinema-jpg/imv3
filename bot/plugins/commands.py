@@ -28,14 +28,14 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = caption,
+                caption = f" {file_name} \n @CINEMAZIP", 
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/sabotschannel"
+                                    '🥵 Share Now 🥵', url="https://t.me/share/url?url=https://t.me/cinemazip"
                                 )
                         ]
                     ]
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/sabotschannel'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/sunaif-adkar2/auto-filter-bot-premier')
+        InlineKeyboardButton('Developers', url='https://t.me/im_godgroot'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/CINEMAZIPnews')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/sabotschannel')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/cinemazip')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]

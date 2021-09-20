@@ -6,9 +6,9 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🌚🎀
+Just See My Power in Cinemazip Not In your Group ⚠️
 For More Details Click Help Button Below..
-@sabotschannel
+@CINEMAZIP
 </i>"""        
     
     HELP_TEXT = """
@@ -44,15 +44,15 @@ For More Details Click Help Button Below..
 <b><a href="https://t.me/sunaif_adkar">© sunaif adkar</a></b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>CIMEMAZIP BOT</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/sunaif_adkar">👤 Sunaif Adkar</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/im_godgroot">❌ ashaan ashaan</a></b>
 
-<b>➥ 🎬turtoil video</b> : <b><a href="https://t.me/sabotschannel/19">👤SaMods</a></b>
+<b>➥ 🎬Join in</b> : <b><a href="https://t.me/Cinemazipmovies/19">♻️Cinemazip0</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://t.me/sabotschannel/12">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/cinemazipnews/12">💥Click Me</a></b>
 """
